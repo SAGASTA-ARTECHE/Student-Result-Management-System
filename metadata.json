@@ -1,0 +1,6 @@
+{
+  "name": "Student Results Management System - Kimberley University of Technology",
+  "description": "Comprehensive academic results management system for Kimberley University of Technology with role-based access control, automated grading, audit trails, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
